@@ -7,11 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendramaruthi&label=Profile%20views&color=0e75b6&style=flat" alt="yogendramaruthi" /> </p>
 
 - 👋 Hi, I’m @YogendraMaruthi
-- 
+
 - 👀 I’m interested in Full-stack web development
-- 
-- 🌱 I’m currently learning JavaScript
-- 
+
+- 🌱 I’m currently learning Node.js
+  
+- ⏳ I'm looking for the entry level job opportunity
+
 - 📫 How to reach me @yogendramaruthi@gmail.com
 
 <h3 align="left">Connect with me:</h3>
